@@ -12,7 +12,7 @@
   "event_sources": [],
   "env_variables": {},
   "publish_version": true,
-  "alias": "${lambdas_alias_name}",
+  "alias": "learn",
   "url_config": {},
   "ephemeral_storage": 512,
   "tags": {}
